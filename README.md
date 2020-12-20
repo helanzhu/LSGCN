@@ -1,7 +1,9 @@
 
+
 1.Recommended Environment:
 numpy 1.18.1
 tensorflow 1.14.0
+
 
 2.Command for different datasets:
 (1)PeMS04:
