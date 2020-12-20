@@ -1,11 +1,13 @@
 
 
 1.Recommended Environment:
+
 numpy 1.18.1
 tensorflow 1.14.0
 
 
 2.Command for different datasets:
+
 (1)PeMS04:
 python main.py --n_route 307 --file_path ./datasets/PeMS04/ --graph W_307.csv --feature V_307.csv --train_days 47 --validation_days 6 --test_days 6
 
