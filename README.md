@@ -16,3 +16,5 @@ python main.py --n_route 228 --file_path ./datasets/PeMS07/ --graph W_228.csv --
 
 (3)PeMS08:
 python main.py --n_route 170 --file_path ./datasets/PeMS08/ --graph W_170.csv --feature V_170.csv --train_days 50 --validation_days 6 --test_days 6
+
+3. In our project, we reference Bing Yu, Haoteng Yin and Zhanxing Zhu’s work STGCN. 
